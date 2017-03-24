@@ -14,7 +14,7 @@ I downloaded [Raspbian Jessie Lite](https://www.raspberrypi.org/downloads/raspbi
 
 ### Project
 
-After installing the Scroll pHAT HD [SDK](https://github.com/pimoroni/scroll-phat-hd) and [PyOWM](https://github.com/csparpa/pyowm); and getting the API key from [OpenWeatherMap](http://openweathermap.org). We could run Linnet on the Scroll Bot or we could put run it on [boot](https://learn.pimoroni.com/tutorial/sandyj/running-scripts-at-boot). A photo of the Scroll Bot running Linnet in action (and a short [movie](https://raw.githubusercontent.com/donny/linnet/master/movie.m4v)):
+After installing the Scroll pHAT HD [SDK](https://github.com/pimoroni/scroll-phat-hd) and [PyOWM](https://github.com/csparpa/pyowm); and getting the API key from [OpenWeatherMap](http://openweathermap.org). We could run Linnet on the Scroll Bot or we could run it on [boot](https://learn.pimoroni.com/tutorial/sandyj/running-scripts-at-boot). A photo of the Scroll Bot running Linnet in action (and a short [movie](https://raw.githubusercontent.com/donny/linnet/master/movie.m4v)):
 
  ![Photo](https://raw.githubusercontent.com/donny/linnet/master/scrollbot.png)
 
@@ -40,7 +40,7 @@ while True:
     time.sleep(0.1)
 ```
 
-It alternates every minute between displaying time and the current weather observation for Melbourne, Australia. It scrolls the message text.
+It alternates every minute between displaying time and the current weather observation for Melbourne, Australia. It scrolls the message text as can be seen in the [movie](https://raw.githubusercontent.com/donny/linnet/master/movie.m4v)).
 
 ### Conclusion
 
