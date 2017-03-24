@@ -12,10 +12,9 @@ I read the first [announcement](https://www.raspberrypi.org/blog/raspberry-pi-ze
 
 I downloaded [Raspbian Jessie Lite](https://www.raspberrypi.org/downloads/raspbian/) and [copied it](https://learn.adafruit.com/introducing-the-raspberry-pi-zero/making-an-sd-card-using-a-mac) to an SD card using [Etcher](https://etcher.io/). I installed the Scroll pHAT HD [SDK](https://github.com/pimoroni/scroll-phat-hd) and tried the example programs. So much fun!
 
-After installing the Scroll pHAT HD [SDK](https://github.com/pimoroni/scroll-phat-hd) and [PyOWM](https://github.com/csparpa/pyowm); and getting the API key from [OpenWeatherMap](http://openweathermap.org).
+After installing the Scroll pHAT HD [SDK](https://github.com/pimoroni/scroll-phat-hd) and [PyOWM](https://github.com/csparpa/pyowm); and getting the API key from [OpenWeatherMap](http://openweathermap.org). We could run the script on the Scroll Bot or we could put run it on [boot](https://learn.pimoroni.com/tutorial/sandyj/running-scripts-at-boot). A photo of the Scroll Bot running Linnet in action:
 
-
- ![Screenshot](https://raw.githubusercontent.com/donny/linnet/master/photo3.png)
+ ![Photo](https://raw.githubusercontent.com/donny/linnet/master/photo3.png)
 
 ### Implementation
 
