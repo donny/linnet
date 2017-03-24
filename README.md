@@ -14,7 +14,7 @@ I downloaded [Raspbian Jessie Lite](https://www.raspberrypi.org/downloads/raspbi
 
 After installing the Scroll pHAT HD [SDK](https://github.com/pimoroni/scroll-phat-hd) and [PyOWM](https://github.com/csparpa/pyowm); and getting the API key from [OpenWeatherMap](http://openweathermap.org). We could run the script on the Scroll Bot or we could put run it on [boot](https://learn.pimoroni.com/tutorial/sandyj/running-scripts-at-boot). A photo of the Scroll Bot running Linnet in action:
 
- ![Photo](https://raw.githubusercontent.com/donny/linnet/master/photo3.png)
+ ![Photo](https://raw.githubusercontent.com/donny/linnet/master/scrollbot.png)
 
 ### Implementation
 
