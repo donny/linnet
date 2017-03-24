@@ -40,7 +40,7 @@ while True:
     time.sleep(0.1)
 ```
 
-It alternates every minute between displaying time and the current weather observation for Melbourne, Australia. It scrolls the message text as can be seen in the [movie](https://raw.githubusercontent.com/donny/linnet/master/movie.m4v)).
+It alternates every minute between displaying time and the current weather observation for Melbourne, Australia. It scrolls the message text as can be seen in the [movie](https://raw.githubusercontent.com/donny/linnet/master/movie.m4v).
 
 ### Conclusion
 
