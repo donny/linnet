@@ -1,10 +1,10 @@
 # linnet
 
-Linnet is a small Python script for [Scroll Bot](https://shop.pimoroni.com/products/scroll-bot-pi-zero-w-project-kit) that displays current time and weather observation data using [OpenWeatherMap](http://openweathermap.org).
+Linnet is a small Python script for [Scroll Bot](https://shop.pimoroni.com/products/scroll-bot-pi-zero-w-project-kit) that displays current time and [weather](http://openweathermap.org) observation data using [PyOWM](https://github.com/csparpa/pyowm).
 
 ### Background
 
-This project is part of [52projects](https://donny.github.io/52projects/) and the new stuff that I learn through this project: [Scroll Bot](https://shop.pimoroni.com/products/scroll-bot-pi-zero-w-project-kit) and [OpenWeatherMap](http://openweathermap.org).
+This project is part of [52projects](https://donny.github.io/52projects/) and the new stuff that I learn through this project: [Scroll Bot](https://shop.pimoroni.com/products/scroll-bot-pi-zero-w-project-kit) and [PyOWM](https://github.com/csparpa/pyowm).
 
 ### Scroll Bot
 
@@ -16,7 +16,7 @@ I downloaded [Raspbian Jessie Lite](https://www.raspberrypi.org/downloads/raspbi
 
 After installing the Scroll pHAT HD [SDK](https://github.com/pimoroni/scroll-phat-hd) and [PyOWM](https://github.com/csparpa/pyowm); and getting the API key from [OpenWeatherMap](http://openweathermap.org). We could run Linnet on the Scroll Bot or we could run it on [boot](https://learn.pimoroni.com/tutorial/sandyj/running-scripts-at-boot). A photo of the Scroll Bot running Linnet in action (and a short [movie](https://raw.githubusercontent.com/donny/linnet/master/movie.m4v)):
 
- ![Photo](https://raw.githubusercontent.com/donny/linnet/master/scrollbot.png)
+![Photo](https://raw.githubusercontent.com/donny/linnet/master/scrollbot.png)
 
 ### Implementation
 
@@ -44,4 +44,4 @@ It alternates every minute between displaying time and the current weather obser
 
 ### Conclusion
 
-...
+I'm super excited with Raspberry Pi Zero W. A Linux capable computer that has wireless built-in in a super tiny package! So many possibilities! The Scroll Bot kit from Pimoroni is a really great product. I might get the other Zero W kits and play with them. [PyOWM](https://github.com/csparpa/pyowm) is quite an easy and straight forward SDK to use to get weather forecast and observation data from [OpenWeatherMap](http://openweathermap.org).
